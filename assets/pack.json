@@ -1,0 +1,131 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "image",
+        "key": "bg",
+        "url": "./assets/images/bg.png"
+      },
+      {
+        "type": "image",
+        "key": "dog",
+        "url": "./assets/images/dog.png"
+      },
+      {
+        "type": "image",
+        "key": "play",
+        "url": "./assets/images/play.png"
+      },
+      {
+        "type": "image",
+        "key": "floor",
+        "url": "./assets/images/floor.png"
+      },
+      {
+        "type": "image",
+        "key": "title",
+        "url": "./assets/images/title.png"
+      },
+      {
+        "type": "image",
+        "key": "gunUI",
+        "url": "./assets/images/gunUI.png"
+      },
+      {
+        "type": "image",
+        "key": "gold",
+        "url": "./assets/images/gold.png"
+      },
+      {
+        "type": "image",
+        "key": "gamefloor",
+        "url": "./assets/images/Gamefloor.png"
+      },
+      {
+        "type": "image",
+        "key": "gun",
+        "url": "./assets/images/gun.png"
+      },
+      {
+        "type": "image",
+        "key": "gun-base",
+        "url": "./assets/images/gun-base.png"
+      },
+      {
+        "type": "image",
+        "key": "black_1",
+        "url": "./assets/images/black_1.png"
+      },
+      {
+        "type": "image",
+        "key": "blue",
+        "url": "./assets/images/blue.png"
+      },
+      {
+        "type": "image",
+        "key": "green",
+        "url": "./assets/images/green.png"
+      },
+      {
+        "type": "image",
+        "key": "purple",
+        "url": "./assets/images/purple.png"
+      },
+      {
+        "type": "image",
+        "key": "red",
+        "url": "./assets/images/red.png"
+      },
+      {
+        "type": "image",
+        "key": "yellow",
+        "url": "./assets/images/yellow.png"
+      },
+      {
+        "type": "image",
+        "key": "stone",
+        "url": "./assets/images/stone.png"
+      },
+      {
+        "type": "image",
+        "key": "lose",
+        "url": "./assets/images/lose.png"
+      },
+      {
+        "type": "audio",
+        "key": "button_click",
+        "url": "./assets/audios/button_click.wav"
+      },
+      {
+        "type": "audio",
+        "key": "shoot",
+        "url": "./assets/audios/shoot.wav"
+      },
+      {
+        "type": "audio",
+        "key": "hit",
+        "url": "./assets/audios/hit.wav"
+      },
+      {
+        "type": "audio",
+        "key": "destory-sound",
+        "url": "./assets/audios/destory-sound.wav"
+      },
+      {
+        "type": "image",
+        "key": "top_board",
+        "url": "./assets/images/hud_board.png"
+      },
+      {
+        "type": "image",
+        "key": "score-bg",
+        "url": "./assets/images/score_base.png"
+      },
+      {
+        "type": "image",
+        "key": "color_1",
+        "url": "./assets/images/clolor_1.png"
+      }
+    ]
+  }
+}
